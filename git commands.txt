@@ -1,0 +1,148 @@
+git init
+git status
+git add .
+git remote add origin https://github.com/ravikumarem123/repo.git
+git branch
+git push -u origin main
+
+
+#creating feature, ver, bugfix , release, hotfix, etc....!
+
+git init
+
+	select ur feature, ver, bugfix, release, hotfix, etc...
+
+
+
+
+===================================================================================================
+
+
+1 gcd ..
+   2 cd ..
+   3 cd ..
+   4 cd GitPractice
+   5 ls
+   6 git init
+   7 cls
+   8 git status
+   9 code .
+  10 git status
+  11 git add .
+  12 git status
+  13 git commit -m "FIRST DEMO COMMIT"
+  14 git config --list
+  15 git status
+  16 git push origin main
+  17 git remote add origin https://github.com/ravikumarem123/repo.git
+  18 git branch -M main
+  19 git branch
+  20 git push origin main
+  21 git login
+  22 git push -u origin main
+  23 git status
+  24 git status
+  25 git status
+  26 git add .
+  27 git status
+  28 git commit -m "Testing on Git Ignore"
+  29 git push origin man
+  30 git push origin main
+  31 git branch
+  32 git checkout -b development
+  33 git branch
+  34 git flow init
+  35 git status
+  36 git branch
+  37 git status
+  38 git flow feature start signup
+  39 git branch
+  40 git status
+  41 git checkout development
+  42 git push origin development
+  43 git branch
+  44 git checkout feature-signup
+  45 git branch
+  46 git status
+  47 git add .\signup.py
+  48 git statuis
+  49 git status
+  50 git commit -m "SignUp file"
+  51 git branch
+  52 git push origin HEAD
+  53 GIT BRANCH
+  54 git branch
+  55 git flow feature finish signup
+  56 git branch
+  57 git status
+  58 git push origin development
+  59 git status
+  60 git flow feature start login
+  61 gi status
+  62 git status
+  63 git branch
+  64 git status
+  65 git add .\LoginPage\*
+  66 git status
+  67 git commit -m "Login Page"
+  68 git status
+  69 history
+  70 cls
+  71 history
+  72 cls
+  73 git status
+  74 git branch
+  75 git push origin HEAD
+  76 git branch
+  77 git status
+  78 git status
+  79 git add .
+  80 git commit -m "Testing Login Code"
+  81 git push origin feature-login
+  82 git branch
+  83 git flow feature start verification
+  84 git branch
+  85 git status
+  86 git status
+  87 git add .
+  88 git status
+  89 git push origin HEAD
+  90 git commit -m "Verifying Login Page"
+  91 git push origin HEAD
+  92 git flow feature finish verification
+  93 git branch
+  94 git flow feature finish login
+  95 git push origin development
+  96 git status
+  97 cls
+  98 git flow release start 1.0
+  99 git branch
+ 100 git flow release finish 1.0
+ 101 git push --tags
+ 102 gitr status
+ 103 git status
+ 104 git branch
+ 105 git add .
+ 106 git status
+ 107 git revert .
+ 108 git reverse .
+ 109 git status
+ 110 git commit -m "newer version"
+ 111 git status
+ 112 git status
+ 113 git flow release start 1.1
+ 114 git branch
+ 115 git add .
+ 116 git commit -m "new version code"
+ 117 git push origin main
+ 118 git flow release start 1.1
+ 119 git branch
+ 120 git status
+ 121 git status
+ 122 git add .
+ 123 git status
+ 124 git commit -m "version 1.1"
+ 125 git push origin HEAD
+ 126 git branch
+ 127 git flow release finish 1.1
+ 128 git push --tags
